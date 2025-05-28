@@ -1,0 +1,2 @@
+2025-05-28 21:27:21 - Starting C:\Program Files\nodejs\node.exe  --harmony --max_old_space_size=4096 C:\Application\system-info-app-nodejs\node_modules\node-windows\lib\wrapper.js --file C:\Application\system-info-app-nodejs\index.js --scriptoptions= --log "System Info Agent wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2025-05-28 21:27:21 - Started 13140
