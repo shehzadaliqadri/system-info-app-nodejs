@@ -1,0 +1,468 @@
+Sending data: {
+  publicIP: '103.87.193.28',
+  macAddresses: {
+    'Wi-Fi': {
+      ipv6: 'fe80::db62:ee71:9f8d:1cfa',
+      mac: '02:30:e7:f3:e0:18',
+      ipv4: '192.168.1.7'
+    }
+  },
+  system: {
+    manufacturer: 'HP',
+    model: 'HP EliteBook 850 G5',
+    version: 'SBKPF',
+    serial: '5CG9106TQW',
+    uuid: '793d1b33-47fc-5a37-4813-4be0f943a3d0',
+    sku: '5KZ92US#ABA',
+    virtual: false
+  },
+  osInfo: {
+    platform: 'Windows',
+    distro: 'Microsoft Windows 11 Pro',
+    release: '10.0.22000',
+    codename: '',
+    kernel: '10.0.22000',
+    arch: 'x64',
+    hostname: 'MMG-SQ',
+    fqdn: 'MMG-SQ',
+    codepage: '437',
+    logofile: 'windows',
+    serial: '00330-80000-00000-AA497',
+    build: '22000',
+    servicepack: '0.0',
+    uefi: true,
+    hypervisor: true,
+    remoteSession: false
+  },
+  cpu: {
+    manufacturer: 'Intel',
+    brand: 'Core™ i5-8350U',
+    vendor: 'GenuineIntel',
+    family: '6',
+    model: '142',
+    stepping: '10',
+    revision: '',
+    voltage: '',
+    speed: 1.7,
+    speedMin: 1.7,
+    speedMax: 1.9,
+    governor: '',
+    cores: 8,
+    physicalCores: 4,
+    performanceCores: 8,
+    efficiencyCores: 0,
+    processors: 1,
+    socket: 'BGA1356',
+    flags: 'de pse mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe',
+    virtualization: true,
+    cache: { l1d: 128, l1i: 128, l2: 1048576, l3: 6291456 }
+  },
+  mem: {
+    total: 17015459840,
+    free: 4652920832,
+    used: 12362539008,
+    active: 12362539008,
+    available: 4652920832,
+    buffers: 0,
+    cached: 0,
+    slab: 0,
+    buffcache: 0,
+    reclaimable: 0,
+    swaptotal: 4730126336,
+    swapused: 227540992,
+    swapfree: 4502585344,
+    writeback: null,
+    dirty: null
+  },
+  disk: [
+    {
+      device: '\\\\.\\PHYSICALDRIVE0',
+      type: 'SSD',
+      name: 'SAMSUNG MZVLB256HAHQ-000H1',
+      vendor: 'Samsung',
+      size: 256052966400,
+      bytesPerSector: 512,
+      totalCylinders: 31130,
+      totalHeads: 255,
+      totalSectors: 500103450,
+      totalTracks: 7938150,
+      tracksPerCylinder: 255,
+      sectorsPerTrack: 63,
+      firmwareRevision: 'EXD70H1Q',
+      serialNum: '0025_3881_91B7_58F3.',
+      interfaceType: 'NVMe',
+      smartStatus: 'Ok',
+      temperature: null
+    }
+  ],
+  wifiList: [
+    {
+      mac: 'f4:bf:bb:ea:65:18',
+      bssid: 'f4:bf:bb:ea:65:18',
+      ssid: 'MMG EMB-5G',
+      channel: 5,
+      frequency: 2432,
+      signal_level: -59.5,
+      quality: 81,
+      security: 'WPA2-Personal',
+      security_flags: 'CCMP ',
+      mode: 'Unknown'
+    }
+  ],
+  timestamp: '2025-05-28T16:27:27.994Z'
+}
+Data sent successfully!
+Sending data: {
+  publicIP: '103.87.193.28',
+  macAddresses: {
+    'Wi-Fi': {
+      ipv6: 'fe80::db62:ee71:9f8d:1cfa',
+      mac: '02:30:e7:f3:e0:18',
+      ipv4: '192.168.1.7'
+    }
+  },
+  system: {
+    manufacturer: 'HP',
+    model: 'HP EliteBook 850 G5',
+    version: 'SBKPF',
+    serial: '5CG9106TQW',
+    uuid: '793d1b33-47fc-5a37-4813-4be0f943a3d0',
+    sku: '5KZ92US#ABA',
+    virtual: false
+  },
+  osInfo: {
+    platform: 'Windows',
+    distro: 'Microsoft Windows 11 Pro',
+    release: '10.0.22000',
+    codename: '',
+    kernel: '10.0.22000',
+    arch: 'x64',
+    hostname: 'MMG-SQ',
+    fqdn: 'MMG-SQ',
+    codepage: '437',
+    logofile: 'windows',
+    serial: '00330-80000-00000-AA497',
+    build: '22000',
+    servicepack: '0.0',
+    uefi: true,
+    hypervisor: true,
+    remoteSession: false
+  },
+  cpu: {
+    manufacturer: 'Intel',
+    brand: 'Core™ i5-8350U',
+    vendor: 'GenuineIntel',
+    family: '6',
+    model: '142',
+    stepping: '10',
+    revision: '',
+    voltage: '',
+    speed: 1.7,
+    speedMin: 1.7,
+    speedMax: 1.9,
+    governor: '',
+    cores: 8,
+    physicalCores: 4,
+    performanceCores: 8,
+    efficiencyCores: 0,
+    processors: 1,
+    socket: 'BGA1356',
+    flags: 'de pse mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe',
+    virtualization: true,
+    cache: { l1d: 128, l1i: 128, l2: 1048576, l3: 6291456 }
+  },
+  mem: {
+    total: 17015459840,
+    free: 4708913152,
+    used: 12306546688,
+    active: 12306534400,
+    available: 4708925440,
+    buffers: 0,
+    cached: 0,
+    slab: 0,
+    buffcache: 0,
+    reclaimable: 0,
+    swaptotal: 4730126336,
+    swapused: 227540992,
+    swapfree: 4502585344,
+    writeback: null,
+    dirty: null
+  },
+  disk: [
+    {
+      device: '\\\\.\\PHYSICALDRIVE0',
+      type: 'SSD',
+      name: 'SAMSUNG MZVLB256HAHQ-000H1',
+      vendor: 'Samsung',
+      size: 256052966400,
+      bytesPerSector: 512,
+      totalCylinders: 31130,
+      totalHeads: 255,
+      totalSectors: 500103450,
+      totalTracks: 7938150,
+      tracksPerCylinder: 255,
+      sectorsPerTrack: 63,
+      firmwareRevision: 'EXD70H1Q',
+      serialNum: '0025_3881_91B7_58F3.',
+      interfaceType: 'NVMe',
+      smartStatus: 'Ok',
+      temperature: null
+    }
+  ],
+  wifiList: [
+    {
+      mac: 'f4:bf:bb:ea:65:18',
+      bssid: 'f4:bf:bb:ea:65:18',
+      ssid: 'MMG EMB-5G',
+      channel: 5,
+      frequency: 2432,
+      signal_level: -59.5,
+      quality: 81,
+      security: 'WPA2-Personal',
+      security_flags: 'CCMP ',
+      mode: 'Unknown'
+    }
+  ],
+  timestamp: '2025-05-28T16:32:25.363Z'
+}
+Data sent successfully!
+Sending data: {
+  publicIP: '103.87.193.28',
+  macAddresses: {
+    'Wi-Fi': {
+      ipv6: 'fe80::db62:ee71:9f8d:1cfa',
+      mac: '02:30:e7:f3:e0:18',
+      ipv4: '192.168.1.7'
+    }
+  },
+  system: {
+    manufacturer: 'HP',
+    model: 'HP EliteBook 850 G5',
+    version: 'SBKPF',
+    serial: '5CG9106TQW',
+    uuid: '793d1b33-47fc-5a37-4813-4be0f943a3d0',
+    sku: '5KZ92US#ABA',
+    virtual: false
+  },
+  osInfo: {
+    platform: 'Windows',
+    distro: 'Microsoft Windows 11 Pro',
+    release: '10.0.22000',
+    codename: '',
+    kernel: '10.0.22000',
+    arch: 'x64',
+    hostname: 'MMG-SQ',
+    fqdn: 'MMG-SQ',
+    codepage: '437',
+    logofile: 'windows',
+    serial: '00330-80000-00000-AA497',
+    build: '22000',
+    servicepack: '0.0',
+    uefi: true,
+    hypervisor: true,
+    remoteSession: false
+  },
+  cpu: {
+    manufacturer: 'Intel',
+    brand: 'Core™ i5-8350U',
+    vendor: 'GenuineIntel',
+    family: '6',
+    model: '142',
+    stepping: '10',
+    revision: '',
+    voltage: '',
+    speed: 1.7,
+    speedMin: 1.7,
+    speedMax: 1.9,
+    governor: '',
+    cores: 8,
+    physicalCores: 4,
+    performanceCores: 8,
+    efficiencyCores: 0,
+    processors: 1,
+    socket: 'BGA1356',
+    flags: 'de pse mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe',
+    virtualization: true,
+    cache: { l1d: 128, l1i: 128, l2: 1048576, l3: 6291456 }
+  },
+  mem: {
+    total: 17015459840,
+    free: 5373333504,
+    used: 11642126336,
+    active: 11642126336,
+    available: 5373333504,
+    buffers: 0,
+    cached: 0,
+    slab: 0,
+    buffcache: 0,
+    reclaimable: 0,
+    swaptotal: 4730126336,
+    swapused: 225443840,
+    swapfree: 4504682496,
+    writeback: null,
+    dirty: null
+  },
+  disk: [
+    {
+      device: '\\\\.\\PHYSICALDRIVE0',
+      type: 'SSD',
+      name: 'SAMSUNG MZVLB256HAHQ-000H1',
+      vendor: 'Samsung',
+      size: 256052966400,
+      bytesPerSector: 512,
+      totalCylinders: 31130,
+      totalHeads: 255,
+      totalSectors: 500103450,
+      totalTracks: 7938150,
+      tracksPerCylinder: 255,
+      sectorsPerTrack: 63,
+      firmwareRevision: 'EXD70H1Q',
+      serialNum: '0025_3881_91B7_58F3.',
+      interfaceType: 'NVMe',
+      smartStatus: 'Ok',
+      temperature: null
+    }
+  ],
+  wifiList: [
+    {
+      mac: 'f4:bf:bb:ea:65:18',
+      bssid: 'f4:bf:bb:ea:65:18',
+      ssid: 'MMG EMB-5G',
+      channel: 5,
+      frequency: 2432,
+      signal_level: -61,
+      quality: 78,
+      security: 'WPA2-Personal',
+      security_flags: 'CCMP ',
+      mode: 'Unknown'
+    }
+  ],
+  timestamp: '2025-05-28T16:37:25.255Z'
+}
+Data sent successfully!
+Sending data: {
+  publicIP: '103.87.193.28',
+  macAddresses: {
+    'Wi-Fi': {
+      ipv6: 'fe80::db62:ee71:9f8d:1cfa',
+      mac: '02:30:e7:f3:e0:18',
+      ipv4: '192.168.1.7'
+    }
+  },
+  system: {
+    manufacturer: 'HP',
+    model: 'HP EliteBook 850 G5',
+    version: 'SBKPF',
+    serial: '5CG9106TQW',
+    uuid: '793d1b33-47fc-5a37-4813-4be0f943a3d0',
+    sku: '5KZ92US#ABA',
+    virtual: false
+  },
+  osInfo: {
+    platform: 'Windows',
+    distro: 'Microsoft Windows 11 Pro',
+    release: '10.0.22000',
+    codename: '',
+    kernel: '10.0.22000',
+    arch: 'x64',
+    hostname: 'MMG-SQ',
+    fqdn: 'MMG-SQ',
+    codepage: '437',
+    logofile: 'windows',
+    serial: '00330-80000-00000-AA497',
+    build: '22000',
+    servicepack: '0.0',
+    uefi: true,
+    hypervisor: true,
+    remoteSession: false
+  },
+  cpu: {
+    manufacturer: 'Intel',
+    brand: 'Core™ i5-8350U',
+    vendor: 'GenuineIntel',
+    family: '6',
+    model: '142',
+    stepping: '10',
+    revision: '',
+    voltage: '',
+    speed: 1.7,
+    speedMin: 1.7,
+    speedMax: 1.9,
+    governor: '',
+    cores: 8,
+    physicalCores: 4,
+    performanceCores: 8,
+    efficiencyCores: 0,
+    processors: 1,
+    socket: 'BGA1356',
+    flags: 'de pse mce sep mtrr mca cmov psn clfsh ds acpi mmx fxsr sse sse2 ss htt tm ia64 pbe',
+    virtualization: true,
+    cache: { l1d: 128, l1i: 128, l2: 1048576, l3: 6291456 }
+  },
+  mem: {
+    total: 17015459840,
+    free: 5105139712,
+    used: 11910320128,
+    active: 11910320128,
+    available: 5105139712,
+    buffers: 0,
+    cached: 0,
+    slab: 0,
+    buffcache: 0,
+    reclaimable: 0,
+    swaptotal: 4730126336,
+    swapused: 225443840,
+    swapfree: 4504682496,
+    writeback: null,
+    dirty: null
+  },
+  disk: [
+    {
+      device: '\\\\.\\PHYSICALDRIVE0',
+      type: 'SSD',
+      name: 'SAMSUNG MZVLB256HAHQ-000H1',
+      vendor: 'Samsung',
+      size: 256052966400,
+      bytesPerSector: 512,
+      totalCylinders: 31130,
+      totalHeads: 255,
+      totalSectors: 500103450,
+      totalTracks: 7938150,
+      tracksPerCylinder: 255,
+      sectorsPerTrack: 63,
+      firmwareRevision: 'EXD70H1Q',
+      serialNum: '0025_3881_91B7_58F3.',
+      interfaceType: 'NVMe',
+      smartStatus: 'Ok',
+      temperature: null
+    }
+  ],
+  wifiList: [
+    {
+      mac: 'f4:bf:bb:ea:65:18',
+      bssid: 'f4:bf:bb:ea:65:18',
+      ssid: 'MMG EMB-5G',
+      channel: 5,
+      frequency: 2432,
+      signal_level: -61,
+      quality: 78,
+      security: 'WPA2-Personal',
+      security_flags: 'CCMP ',
+      mode: 'Unknown'
+    },
+    {
+      mac: '50:d4:f7:c8:58:36',
+      bssid: '50:d4:f7:c8:58:36',
+      ssid: 'Smart Network ',
+      channel: 2,
+      frequency: 2417,
+      signal_level: -61,
+      quality: 78,
+      security: 'WPA2-Personal',
+      security_flags: 'CCMP ',
+      mode: 'Unknown'
+    }
+  ],
+  timestamp: '2025-05-28T16:42:25.402Z'
+}
+Data sent successfully!

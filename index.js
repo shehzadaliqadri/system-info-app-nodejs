@@ -16,10 +16,10 @@ async function getSystemInfo() {
       macaddress.all(),
       si.system(),
       si.osInfo(),
-    //   si.cpu(),
-    //   si.mem(),
-    //   si.diskLayout(),
-    //   wifi.scan(),
+      si.cpu(),
+      si.mem(),
+      si.diskLayout(),
+      wifi.scan(),
       axios.get('https://api.ipify.org?format=json'),
     ]);
 
