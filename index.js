@@ -7,7 +7,13 @@ const wifi = require('node-wifi');
 wifi.init({ iface: null });
 
 // Replace with your server endpoint
-const SERVER_URL = 'https://yourserver.com/api/system-info';
+const SERVER_URL = 'http://localhost:3000/api/token';
+
+const TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiU3lzdGVtSW5mb0FnZW50IiwiaWF0IjoxNzQ4NTg4NDExLCJleHAiOjE3NDkxOTMyMTF9.4ZitBKtDRYBUo1oikMlsF0dSr-1ZR8v1f3N--SWF5Fs';
+
+await axios.post(SERVER_URL, data, {
+  headers: { Authorization: TOKEN }
+});
 
 // Fetch system info
 async function getSystemInfo() {
@@ -28,10 +34,10 @@ async function getSystemInfo() {
       macAddresses: macs,
       system,
       osInfo,
-    //   cpu,
-    //   mem,
-    //   disk,
-    //   wifiList,
+      cpu,
+      mem,
+      disk,
+      wifiList,
       timestamp: new Date().toISOString(),
     };
 
